@@ -1,0 +1,1 @@
+This repository contains code and assets for a Unity OpenGL project called Galaxy Generator. This project demonstrates procedural generation and heirarchical structure with a simple user interface for generation and inspection of a galaxy data structure.
